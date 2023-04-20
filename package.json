@@ -1,0 +1,29 @@
+{
+  "name": "canvas-trim",
+  "version": "1.0.0",
+  "description": "Trim whitespace from a canvas",
+  "main": "canvas-trim.js",
+  "exports": {
+    "import": "./canvas-trim.js",
+    "require": "./canvas-trim.cjs"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Axorax/canvas-trim.js.git"
+  },
+  "keywords": [
+    "canvas",
+    "trim-canvas",
+    "canvas-trimmer",
+    "trim",
+    "canvas-trim",
+    "html5-canvas"
+  ],
+  "author": "Axorax",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Axorax/canvas-trim.js/issues"
+  },
+  "homepage": "https://github.com/Axorax/canvas-trim.js#readme"
+}
